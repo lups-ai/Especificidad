@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+ body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+ }
+
+.solivan {
+    position: relative;
+    top: 15vh;
+
+}
+
+.boo {
+    position: relative;
+    top: 45vh;
+    left: 110vh;
+}
