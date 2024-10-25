@@ -6,7 +6,14 @@
     margin: 0;
     padding: 0;
  }
+ @font-face {
+    font-family: Especificidad;
+    src: url(fonts/AVENGEANCE\ HEROIC\ AVENGER\ BI.ttf);
+}
 
+h1 {
+    font-family: Especificidad;
+}
 .solivan {
     position: relative;
     top: 15vh;
